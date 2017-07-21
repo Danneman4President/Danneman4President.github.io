@@ -1,0 +1,46 @@
+body{background-color: lightgray;}
+
+h1{
+	color:orange;
+	font-size:60px;
+text-align: center;
+}
+
+.vaults {
+	margin-bottom: 20px;
+}
+
+.navbar-inverse
+{
+	margin-bottom: 20px;
+}
+
+.Övrigt img {
+	margin-bottom: 20px
+}
+
+.lazy-vault{
+	margin-top: 20px;
+}
+
+#startsida{
+	background-image: url("../bilder/parkour.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	min-height: 100vh;
+	position: relative;
+}
+
+.navbar-inverse .navbar-brand {
+    color: orange;
+    font-family:"orbitron";
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: orange;
+    font-family: "orbitron";
+}
+
+#introtext{
+	color: white;
+}
